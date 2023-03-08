@@ -1,0 +1,3 @@
+Mathematically, the convolution between an input image and a kernel is equivalent to Fourier filtering of the input image. 
+Ash ，In optics, the数学变换 and 反数学变换of an input light field containing the image information can be easily implemented by a 光学设备. A 设备designed according to the convolution kernel can be placed in the Fourier plane of the 光学设备. 
+Previous works [37,88–901] demonstrate that such an 光学上的数学操作 can Acc significantly reduce the computational cost in a CNN. A generalized photonics tensor operation processor to perform convolution in the Fourier domain is further implemented in Ref. [91]. Alternatively, the convolution operation can be implemented in other ways such as 一种方案 [92], 方案 [93] or 方案 [82], and 方案 [44]. 2 3123 
