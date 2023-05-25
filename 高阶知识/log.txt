@@ -1,0 +1,4 @@
+2022-07-06 17:16:06,753 - 705248725.py[line:27] - INFO: 这是 logger info message
+2022-07-06 17:16:06,753 - 705248725.py[line:28] - WARNING: 这是 logger warning message
+2022-07-06 17:16:06,753 - 705248725.py[line:29] - ERROR: 这是 logger error message
+2022-07-06 17:16:06,754 - 705248725.py[line:30] - CRITICAL: 这是 logger critical message
